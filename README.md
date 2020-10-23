@@ -71,6 +71,10 @@ bash <(curl -s -L http://dl.thinker.ink/install.sh)
 ./install.sh
 ``` 
 
+**deb包**：
+
+可在[铜豌豆软件源](https://www.atzlinux.com/allpackages.htm)中进行根据说明进行v2rayL的下载安装
+
 ## 更新
 ``` bash
 bash <(curl -s -L http://dl.thinker.ink/update.sh)
@@ -94,6 +98,8 @@ bash <(curl -s -L http://dl.thinker.ink/uninstall.sh)
 UI界面设计来源：https://zmister.com/archives/477.html
 
 配置方面参考: https://github.com/2dust/v2rayNG
+
+deb包提供：铜豌豆Linux https://www.atzlinux.com/allpackages.htm
 
 # 协议
 
